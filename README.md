@@ -9,6 +9,6 @@ Hi there, This is my Tic-Tac-Toe Project.
 
 • It provides an optimal move for the player assuming that opponent is also playing optimally.
 
-• Revised and Explored some Algorithms, and practiced a lot of new Stuff.
+• Revised and Explored some Algorithms, and practiced a lot of Stuff.
 
 • Let's Play our Childhood Game on the Console @ https://onlinegdb.com/4aF_d18VN
